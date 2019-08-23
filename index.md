@@ -4,45 +4,29 @@ Seja bem-vindo, esse espaço foi criado para facilitar a distribuição dos mate
 Para contatos diversos, podem enviar e-mail para: **kizzyterra@gmail.com.**
 
 ### Plantões presenciais
+```markdown
 Toda última quinta-feira do mês, 18:30 às 20
 Local: a confirmar
 1. 29/08/19 
 2. 26/09/19 
 3. 31/10/19
 4. 28/11/19
+```
 
 Agora vamos ao que interessa :)
 
 ## Apresentação da disciplina
 
-**Plano de Aula:** 
+Objetivo: estudar a teoria geral do Direito comum a todos os ramos do Direito
+Avaliação:
+P1 (10,0) + Trabalho (até 2,0)
+P2 (10,0) + Trabalho (até 2,0)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Plano de Aula:** [Link](url) and ![Image](src)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Sobre a monitora
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kterra/mointoria-iedII-20192/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
